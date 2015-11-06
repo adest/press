@@ -1,3 +1,5 @@
 = Test
+:published_at: 2015-11-06
+:hp-tags: useless, do not read
 
 Ceci est un post de test
